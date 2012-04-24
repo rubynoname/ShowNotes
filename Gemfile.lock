@@ -1,0 +1,11 @@
+GEM
+  specs:
+    bluecloth (2.2.0)
+    rake (0.9.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bluecloth
+  rake
