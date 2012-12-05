@@ -13,7 +13,7 @@
 
 # Где послушать
 
-Послушать и подписаться на нас можно на [rpod](http://ruby.rpod.ru/).
+Послушать и подписаться на нас можно на [нашем сайте rubynoname.ru](http://rubynoname.ru/).
 
 [Наш твиттер](https://twitter.com/#!/rubynoname)
 
